@@ -11,6 +11,9 @@ To perform our analysis, we have selected a dataset from Kaggle, which comprises
 
 ## Data
 The dataset used for this project is a subset of the [Yelp Open Dataset](https://www.kaggle.com/datasets/ilhamfp31/yelp-review-dataset), which contains over 5 million reviews and ratings for businesses in 11 metropolitan areas.
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/110933007/215000222-22e294ec-8c9f-4718-86e1-c4c2c2bac6cc.png)
 
 
 ## Results
